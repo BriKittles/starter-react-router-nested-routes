@@ -17,6 +17,7 @@ function App() {
       <GoHomeButton />
       <Link to="/">Home</Link>
       <Link to="/about">About</Link>
+    <p>Learn React</p>
       <Switch>
         <Route exact path="/">
           <Home />
